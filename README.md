@@ -1,6 +1,6 @@
 Yet another iOS developer with 10+ years of experience.
 
-Feel free to communicate with me in English🇬🇧, Russian🇷🇺 and Serbian🇷🇸.
+Feel free to communicate with me in English🇬🇧, Russian🇷🇺 or Serbian🇷🇸.
 
 #### My projects
 
