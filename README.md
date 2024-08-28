@@ -10,5 +10,6 @@ Mostly experienced in C, Assembly, Objective-C, Python languages.
 
 ### Contact me
 Feel free to contact me in English, Russian, Spanish or Serbian.
+- Jabber (XMPP): [perechnev@jabber.ru](perechnev@jabber.ru)
 - Telegram: [@alexlittlepony](https://t.me/alexlittlepony)
 - Email: <alexander@perechnev.com>
