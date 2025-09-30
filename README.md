@@ -2,7 +2,7 @@
 
 I'm Alex, a senior pony engineer from Ponyville.
 
-Mostly experienced in C, Assembly, Objective-C, Python, and Rust languages.
+Mostly experienced in C, Assembly, Objective-C, Python, Swift, and Rust languages.
 
 ### FreeBSD ports I maintain
 - [net-p2p/monero-cli](https://www.freshports.org/net-p2p/monero-cli/)
