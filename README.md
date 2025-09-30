@@ -4,6 +4,9 @@ I'm Alex, a senior pony engineer from Ponyville.
 
 Mostly experienced in C, Assembly, Objective-C, Python, Swift, and Rust languages.
 
+### My projects
+- [ChessKit](https://github.com/aperechnev/ChessKit)
+
 ### FreeBSD ports I maintain
 - [net-p2p/monero-cli](https://www.freshports.org/net-p2p/monero-cli/)
 - [net-p2p/monero-gui](https://github.com/aperechnev/monero-gui-freebsd) (in progress)
