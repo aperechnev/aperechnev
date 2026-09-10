@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alex, a crypto enthusiast from Ponyville, mostly experienced with C, Assembly, Python, Rust, and Solidity languages.
+I'm Alexander, a crypto enthusiast with most of my experience in C, Assembly, Python, Rust, and Solidity.
 
 ### Contact me
 - Telegram: [@undesiredchild](https://t.me/undesiredchild)
